@@ -1,0 +1,39 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 417px;
+    background-color: skyblue;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    font-family: "Century Gothic";
+    font-size: 20px;
+}
+
+li a:hover {
+    background-color: mediumblue;
+}
+
+.header {
+    font-family: "Century Gothic";
+}
+
+#bold {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#italic {
+    font-style: italic 
+}
